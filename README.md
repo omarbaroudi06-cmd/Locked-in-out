@@ -1,2 +1,2 @@
-# inout
+# Locked-in-out
 App
